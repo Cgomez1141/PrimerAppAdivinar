@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appAdivinar</string>
+    <string name="jugar">jugar</string>
+    <string name="numerou">Introducir Número</string>
+    <string name="puntos">Puntos:</string>
+    <string name="result"> </string>
+    <string name="numerousr"> </string>
+</resources>
